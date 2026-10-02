@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+data/sepsiswatch.db
+data/physionet_2019/*.psv
